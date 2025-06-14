@@ -20,3 +20,78 @@ Posibles modelos de regresión lineal
 3.1	Variables independientes: Delivery Duration (min), Weekend Order, Price ($)
 3.2	¿Los clientes dejan más propina si el pedido llega rápido o si es fin de semana?
 
+
+
+Para que tu trabajo de análisis de datos en **Jupyter Notebook** sea evaluado de manera integral, debes cubrir los siguientes puntos clave en tu estructura, alineados con una posible **rúbrica de evaluación**:
+
+---
+
+### **1. Introducción y Contexto del Negocio**
+   - **Descripción del problema**: Explicar el objetivo del análisis y el tipo de negocio (ej: ventas, marketing, logística).
+   - **Fuente de los datos**: Origen del dataset (ej: Kaggle, empresa, simulado) y variables disponibles.
+   - **Preguntas de análisis**: Plantear 3-5 preguntas concretas que guíen el análisis. Ejemplo:
+     - *¿Qué factores influyen más en las ventas?*
+     - *¿Existe estacionalidad en la demanda?*
+     - *¿Qué segmentos de clientes son más rentables?*
+
+---
+
+### **2. Preparación y Exploración de Datos (EDA)**
+   - **Carga y visualización inicial**: Mostrar las primeras filas del dataset con `head()`, `info()`, `describe()`.
+   - **Limpieza de datos**:
+     - Manejo de valores nulos o duplicados.
+     - Corrección de tipos de datos (ej: fechas como `datetime`).
+   - **Análisis exploratorio**:
+     - Visualizaciones (histogramas, boxplots, scatter plots) para entender distribuciones y relaciones.
+     - Identificación de outliers o patrones iniciales.
+
+---
+
+### **3. Análisis Estadístico y Respuesta a Preguntas**
+   - **Técnicas aplicadas**:
+     - Agrupaciones (`groupby`), correlaciones, pruebas de hipótesis (si es relevante).
+     - Uso de métricas como media, mediana, desviación estándar.
+   - **Visualizaciones clave**: Gráficos que respondan directamente a las preguntas planteadas (ej: heatmaps de correlación, series de tiempo).
+   - **Interpretación**: Explicación clara de los hallazgos en contexto del negocio.
+
+---
+
+### **4. Modelado (Opcional, dependiendo del nivel)**
+   - Si aplica: Modelos simples (regresión, clustering) para predecir o segmentar.
+   - Evaluación del modelo (métricas como R², precisión) y conclusiones.
+
+---
+
+### **5. Conclusiones y Recomendaciones**
+   - **Resumen de insights**: Principales hallazgos vinculados a las preguntas iniciales.
+   - **Recomendaciones accionables**: Propuestas concretas para el negocio basadas en datos.
+   - **Limitaciones**: Problemas con los datos (ej: falta de información, sesgos).
+
+---
+
+### **6. Presentación y Código**
+   - **Organización del Notebook**:
+     - Títulos y markdowns explicativos (no solo código).
+     - Código bien comentado y estructurado.
+   - **Reproducibilidad**: El notebook debe ejecutarse sin errores (incluyendo librerías usadas en un `requirements.txt`).
+
+---
+
+### **Posibles Criterios de Evaluación en una Rúbrica**
+| **Categoría**               | **Puntos a Evaluar**                                                                 |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| **Claridad de preguntas**    | Preguntas relevantes y alineadas con el negocio.                                    |
+| **Limpieza de datos**       | Manejo adecuado de missing values, outliers y transformaciones.                    |
+| **Análisis exploratorio**   | Visualizaciones informativas y descripción de patrones.                            |
+| **Profundidad del análisis**| Uso de técnicas estadísticas/modelos apropiados para responder preguntas.          |
+| **Conclusiones**            | Insights útiles y recomendaciones prácticas.                                        |
+| **Presentación**            | Notebook organizado, código claro y documentación explicativa.                     |
+
+---
+
+### **Tips Adicionales**
+- Usa librerías como `pandas`, `matplotlib/seaborn`, y `scipy/statsmodels`.
+- Incluye un **README** si entregas archivos adicionales.
+- Si es un equipo, define roles (ej: uno para EDA, otro para modelado).
+
+¡Este esquema asegurará que cubras todos los aspectos esenciales para un análisis profesional!
