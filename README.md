@@ -1,9 +1,4 @@
-# mineriaAIEP_02
-
-aca esta el readmi de inicio.
-
-
-URL KAGLE
+# URL KAGLE
 
 https://www.kaggle.com/datasets/atharvasoundankar/taco-sales-dataset-20242025
 
@@ -45,7 +40,7 @@ Reemplazar valores de tipo string por datos numéricos.
 
 
 
-#**Sugerencia de roto para trabajo competo porte 1 y 2**
+## **Sugerencia de roto para trabajo competo porte 1 y 2**
 
 En este caso sí podrías hacer una regresión lineal, ya que hay variables numéricas continuas que pueden servir como predictores. Algunas opciones interesantes para aplicar una regresión lineal incluyen:
 Posibles modelos de regresión lineal
