@@ -50,14 +50,14 @@ Identificar valores nulos, imputar valores para reemplazar los nulos, identifica
 
 Reemplazar valores de tipo string por datos numéricos.
 
-**Fin evaliacion 1**
+# **Fin evaliacion 1**
 
 
 -----------------------------
 
 
 
-**Sugerencia de roto para trabajo competo porte 1 y 2**
+#**Sugerencia de roto para trabajo competo porte 1 y 2**
 
 Para que tu trabajo de análisis de datos en **Jupyter Notebook** sea evaluado de manera integral, debes cubrir los siguientes puntos clave en tu estructura, alineados con una posible **rúbrica de evaluación**:
 
