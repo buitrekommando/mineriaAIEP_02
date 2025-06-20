@@ -38,7 +38,7 @@ Identificar valores nulos, imputar valores para reemplazar los nulos, identifica
 
 Reemplazar valores de tipo string por datos numéricos.
 
-# **Fin evaliacion 1**
+# **Fin evaluación 1**
 
 
 -----------------------------
