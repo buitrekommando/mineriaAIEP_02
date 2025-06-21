@@ -1,0 +1,2 @@
+py -m virtualenv venv
+pip install virtualenv
