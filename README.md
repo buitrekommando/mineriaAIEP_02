@@ -1,3 +1,7 @@
+# Conoce el negocio. Gabriela.
+# Conocer los Datos. Gissele Jose
+# Limpieza de datos. Camila y Marcos
+
 # URL KAGLE
 
 https://www.kaggle.com/datasets/atharvasoundankar/taco-sales-dataset-20242025
