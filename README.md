@@ -35,3 +35,21 @@ Reemplazar valores de tipo string por datos numéricos.
 
 # **Fin evaluación 1**
 
+# **Inicio Evaluación 2**
+
+CRISP-DM 4
+- Valores NaN se deben imputar con criterio
+- No deben haber registros duplicados
+- Transformar variables categóricas
+- Escalar variables numéricas sin son necesarias
+
+CRISP-DM 5
+- dividir DF en 80 y 20 para entrenar y probar
+- Crear Pipelines
+- Entrenar 3 modelos para predecir con sus datos
+- Validar modelos
+- Mejorar modelos probando hiperparámetros
+
+CRISP-DM 6
+- Resumnir el proyecto explicando cada caso importante
+- Entregar conclusión y recomendación
